@@ -1,0 +1,22 @@
+{
+  "name": "homework",
+  "version": "1.0.0",
+  "description": "a homework to Mr Chen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linchen2chris/nodejs-spider.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "linchen2chris.github.io",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/linchen2chris/nodejs-spider/issues"
+  },
+  "homepage": "https://github.com/linchen2chris/nodejs-spider#readme"
+}
